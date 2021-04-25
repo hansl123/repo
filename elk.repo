@@ -1,0 +1,5 @@
+[elk]
+name=elk
+baseurl=https://mirrors.tuna.tsinghua.edu.cn/elasticstack/yum/elastic-7.x/
+enable=1
+gpgcheck=0
